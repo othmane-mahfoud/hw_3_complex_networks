@@ -1,8 +1,11 @@
 Facebook-Ego
 Twitter-Ego
+README_files
 Facebook-Ego/
 Twitter-Ego/
+README_files/
 Facebook-Ego/*
 Twitter-Ego/*
+README_files/*
 .DS_Store
 .DS_Store/
