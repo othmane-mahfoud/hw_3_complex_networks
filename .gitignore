@@ -1,0 +1,8 @@
+Facebook-Ego
+Twitter-Ego
+Facebook-Ego/
+Twitter-Ego/
+Facebook-Ego/*
+Twitter-Ego/*
+.DS_Store
+.DS_Store/
